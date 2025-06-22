@@ -13,7 +13,8 @@ Cold-Start Handling: Suggests top-rated movies for new users with no rating hist
 
 Real-Time Simulation: Demonstrates dynamic updating of recommendations as new user ratings arrive.
 
-# Dataset; Uses the MovieLens dataset (ratings.csv and movies.csv).
+# Dataset; 
+Uses the MovieLens dataset (ratings.csv and movies.csv).
 
 # Usage
 Load the ratings and movies datasets.
