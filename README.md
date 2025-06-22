@@ -27,7 +27,7 @@ View cold-start recommendations for new users.
 
 Observe real-time simulation of incoming ratings updating recommendations dynamically.
 
-# to be noted that SVD simulations were not ran even due to package constraints( using svd can help improve the recommendations ). 
+ 
 
 
 # RESULT 
